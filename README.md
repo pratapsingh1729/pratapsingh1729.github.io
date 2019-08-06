@@ -1,1 +1,1 @@
-Personal website.
+Personal website: https://pratap.dev
