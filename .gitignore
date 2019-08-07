@@ -1,2 +1,4 @@
-*.code-workspace
-_site/*
+_site
+.sass-cache
+.jekyll-metadata
+*.code_workspace
