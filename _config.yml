@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -20,18 +20,19 @@ title                    : "Pratap Singh"
 name                     : "Pratap Singh"
 description              : "My personal website"
 url                      : "https://pratap.dev"
-baseurl                  : "/"
+baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 words_per_minute         : 200
+search                   : true
 
 
 # Site Author
 author:
   name             : "Pratap Singh"
   avatar           : /assets/images/bio-photo.jpg
-  bio              : "Undergraduate at Harvard studying Computer Science and Math"
+  bio              : "Undergraduate at Harvard studying Computer Science and Mathematics"
   location         : "Cambridge, MA"
-  email            : "pratapsingh1729@gmail.com"
+#  email            : "pratapsingh1729@gmail.com"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -39,13 +40,16 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pratapsingh1729"
+    - label: "pratapsingh1729@gmail.com"
+      icon: "fas fa-fw fa-envelope-square"
+      url: ""
 
 # Site Footer
 footer:
   links:
-    - label: "Email"
+    - label: "pratapsingh1729@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:pratapsingh1729@gmail.com
+      url: ""
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://pratap.dev"
@@ -177,8 +181,6 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
@@ -215,7 +217,7 @@ sass:
 # Outputting
 permalink: /:categories/:title/
 paginate: 10 # number of posts to show
-paginate_path: /page:num/
+paginate_path: /blog/page:num
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
@@ -285,6 +287,14 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: false
       share: false
       related: false
+      classes: wide
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
