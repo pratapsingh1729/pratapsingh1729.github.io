@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" 
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Pratap Singh"
 name                     : "Pratap Singh"
-description              : "My personal website"
+description              : "Pratap Singh"
 url                      : "https://pratap.dev"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -40,14 +40,14 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pratapsingh1729"
-    - label: "pratapsingh1729@gmail.com"
+    - label: "pratapsingh1729 at gmail dot com"
       icon: "fas fa-fw fa-envelope-square"
       url: ""
 
 # Site Footer
 footer:
   links:
-    - label: "pratapsingh1729@gmail.com"
+    - label: "pratapsingh1729 at gmail dot com"
       icon: "fas fa-fw fa-envelope-square"
       url: ""
     - label: "Website"
@@ -206,11 +206,11 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+  math_engine: mathjax 
 
 
 # Sass/SCSS
 sass:
-  sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 

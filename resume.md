@@ -1,21 +1,19 @@
 ---
 layout: single
 title:  "Resume"
-date:   2019-08-15 00:00:00 -0500
+date:   2019-08-24 00:00:00 -0500
 classes: wide
-toc: true
 ---
 
 ## Education
 
 **Harvard University**, Class of 2021  
-A.B. in Computer Science.  Secondary Field in Mathematical Sciences.  
-GPA (as of Aug 2019): **3.98**  
-*Relevant coursework:* 
-Data Structures and Algorithms; Programming Languages; Theoretical Computer Science; Abstraction and Design in Computation; Introduction to Probability; Discrete Mathematics; Linear Algebra and Real Analysis; Applied Linear Algebra and Big Data  
-*Awards:* Harvard College Scholarship (top 10% of class)
+A.B. in Computer Science.  Secondary Field in Mathematical Sciences. GPA: **3.98**  
+*Relevant coursework:* Data Structures and Algorithms; Programming Languages; Theoretical Computer Science; Abstraction and Design in Computation; Introduction to Probability; Discrete Mathematics; Linear Algebra and Real Analysis; Applied Linear Algebra and Big Data  
+*Awards:* Harvard College Scholarship for 2017-2018
 
-**The Perse School**, Class of 2017  
+**The Perse School**, *Cambridge, UK*, Class of 2017   
+A-levels/Pre-U: Mathematics, Further Mathematics, Physics, Chemistry, Economics  
 *Awards:* Arkwright Engineering Scholarship, Sixth Form Academic and
 Music Scholarships
 
@@ -24,12 +22,12 @@ Music Scholarships
 **Summer Project on Sublinear Algorithms in OCaml**, June-August 2019    
 *Department of Computer Science and Engineering, IIT Madras, Chennai, India*  
 -   Implemented and evaluated sublinear algorithms including the Count-Min sketch in OCaml for the open-source Owl scientific computing library
--   See related blog post [TODO]
+-   See related [blog post](/ocaml/owl/count-min-sketch/sublinear-algorithms/countmin-sketch/)
 
 **Undergraduate Teaching Fellow**, Sept 2018–May 2019  
 *Harvard University, Cambridge, MA*  
+-   Courses taught: Applied Mathematics 120 (Applied Linear Algebra and Big Data) in Spring 2019, Mathematics E-23a (Linear Algebra and Real Analysis I) in Fall 2018
 -   Held office hours, graded problem sets, and provided one-on-one tutoring and teaching for Harvard College undergraduates and Harvard Extension School distance-learning students
--   Courses taught: Mathematics E-23a (Linear Algebra and Real Analysis I) in Fall 2018, Applied Mathematics 120 (Applied Linear Algebra and Big Data) in Spring 2019
 
 **Harvard College PRISE Fellowship**, June–August 2018    
 *Department of Earth and Planetary Sciences, Harvard University, Cambridge, MA*  
@@ -70,11 +68,9 @@ Music Scholarships
 
 {% include_relative publications_src.md %}
 
-## Service
+## Professional activities
 
-**ICFP 2019**  
-*Berlin, Germany*
--   Student Volunteer---assisted with the organization of the conference
+**International Conference on Functional Programming 2019**, *Berlin*, *Germany* - Student Volunteer
 
 ## Technical Skills
 
@@ -83,6 +79,6 @@ JavaScript, Docker
 
 ## Interests
 -   *Radio* -- DJ for The Jazz Spectrum on [WHRB](https://whrb.org)
--   *Flying* -- UK Private Pilots License in Aug 2017, currently have 86.5 flying hours
+-   *Flying* -- hold a European EASA Private Pilots License, currently have 92 flying hours
 -   *Clarinet* -- ABRSM Grade 8 with Distinction, member of Harvard Band and Wind Ensemble
 -   *Piano* -- ABRSM Grade 7
