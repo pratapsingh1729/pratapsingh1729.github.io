@@ -10,7 +10,7 @@ classes: wide
 **Harvard University**, Class of 2021  
 A.B. in Computer Science.  Secondary Field in Mathematical Sciences. GPA: **3.98**  
 *Relevant coursework:* Data Structures and Algorithms; Programming Languages; Theoretical Computer Science; Abstraction and Design in Computation; Introduction to Probability; Discrete Mathematics; Linear Algebra and Real Analysis; Applied Linear Algebra and Big Data  
-*Awards:* Harvard College Scholarship for 2017-2018
+*Awards:* Harvard College Scholarship for 2018-2019
 
 **The Perse School**, *Cambridge, UK*, Class of 2017   
 A-levels/Pre-U: Mathematics, Further Mathematics, Physics, Chemistry, Economics  
