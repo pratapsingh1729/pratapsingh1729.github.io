@@ -40,14 +40,14 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pratapsingh1729"
-    - label: "pratapsingh1729 at gmail dot com"
+    - label: "pratap at pratap dot dev"
       icon: "fas fa-fw fa-envelope-square"
       url: ""
 
 # Site Footer
 footer:
   links:
-    - label: "pratapsingh1729 at gmail dot com"
+    - label: "pratap at pratap dot dev"
       icon: "fas fa-fw fa-envelope-square"
       url: ""
     - label: "Website"

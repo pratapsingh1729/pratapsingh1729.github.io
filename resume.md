@@ -8,7 +8,7 @@ classes: wide
 ## Education
 
 **Harvard University**, Class of 2021  
-A.B. in Computer Science.  Secondary Field in Mathematical Sciences. GPA: **3.98**  
+A.B. in Computer Science.  Secondary Field in Mathematical Sciences. GPA: 3.98  
 *Relevant coursework:* Data Structures and Algorithms; Programming Languages; Theoretical Computer Science; Abstraction and Design in Computation; Introduction to Probability; Discrete Mathematics; Linear Algebra and Real Analysis; Applied Linear Algebra and Big Data  
 *Awards:* Harvard College Scholarship for 2018-2019
 
@@ -70,7 +70,7 @@ Music Scholarships
 
 ## Professional activities
 
-**International Conference on Functional Programming 2019**, *Berlin*, *Germany* - Student Volunteer
+**ICFP 2019**, *Berlin*, *Germany* - Student Volunteer
 
 ## Technical Skills
 
