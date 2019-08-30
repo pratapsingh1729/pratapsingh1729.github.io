@@ -144,12 +144,12 @@ footer:
 #   name                   : # If the user or organization name differs from the site's name
 #   links: # An array of links to social media profiles
 
-# # Analytics
-# analytics:
-#   provider               : false # false (default), "google", "google-universal", "custom"
-#   google:
-#     tracking_id          :
-#     anonymize_ip         : # true, false (default)
+# Analytics
+analytics:
+  provider               : "google-gtag"
+  google:
+    tracking_id          : UA-146823104-1
+    anonymize_ip         : false
 
 
 
