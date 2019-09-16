@@ -149,8 +149,6 @@ analytics:
   provider               : "google-gtag"
   google:
     tracking_id          : UA-146823104-1
-    anonymize_ip         : false
-
 
 
 # Reading Files
