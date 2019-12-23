@@ -79,7 +79,7 @@ OCaml, Haskell, Python, R, C/C++, Datalog/Prolog, LaTeX, MATLAB, Java,
 JavaScript, Docker
 
 ## Interests
--   *Radio* -- DJ for The Jazz Spectrum on [WHRB](https://whrb.org)
+-   *Radio* -- Director of The Jazz Spectrum and Webmaster for [WHRB](https://whrb.org)
 -   *Flying* -- hold a European EASA Private Pilots License, currently have 92 flying hours
 -   *Clarinet* -- ABRSM Grade 8 with Distinction, member of Harvard Band and Wind Ensemble
 -   *Piano* -- ABRSM Grade 7
