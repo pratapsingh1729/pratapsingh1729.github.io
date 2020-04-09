@@ -21,7 +21,7 @@ Music Scholarships
 
 **Undergraduate Teaching Fellow**, Sept 2018–May 2020    
 *Harvard University, Cambridge, MA*  
--   Courses taught: Computer Science 152 (Programming Languages) in Spring 2020, Computer Science 121 in Fall 2019,  Applied Mathematics 120 (Applied Linear Algebra and Big Data) in Spring 2019, Mathematics E-23a (Linear Algebra and Real Analysis I) in Fall 2018
+-   Courses taught: Computer Science 152 (Programming Languages) in Spring 2020, Computer Science 121 (Introduction to Theoretical Computer Science) in Fall 2019,  Applied Mathematics 120 (Applied Linear Algebra and Big Data) in Spring 2019, Mathematics E-23a (Linear Algebra and Real Analysis I) in Fall 2018
 -   Held office hours, graded problem sets, and provided one-on-one tutoring and teaching for Harvard College undergraduates and Harvard Extension School distance-learning students
 -   Awarded Certificate of Distinction in Teaching for Spring 2019 for receiving student evaluation rating above 4.5/5
 
