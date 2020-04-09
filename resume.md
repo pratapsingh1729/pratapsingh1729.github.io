@@ -19,16 +19,16 @@ Music Scholarships
 
 ## Projects & Experience
 
+**Undergraduate Teaching Fellow**, Sept 2018–May 2020    
+*Harvard University, Cambridge, MA*  
+-   Courses taught: Computer Science 152 (Programming Languages) in Spring 2020, Computer Science 121 in Fall 2019,  Applied Mathematics 120 (Applied Linear Algebra and Big Data) in Spring 2019, Mathematics E-23a (Linear Algebra and Real Analysis I) in Fall 2018
+-   Held office hours, graded problem sets, and provided one-on-one tutoring and teaching for Harvard College undergraduates and Harvard Extension School distance-learning students
+-   Awarded Certificate of Distinction in Teaching for Spring 2019 for receiving student evaluation rating above 4.5/5
+
 **Summer Project on Sublinear Algorithms in OCaml**, June-August 2019    
 *Department of Computer Science and Engineering, IIT Madras, Chennai, India*  
 -   Implemented and evaluated sublinear algorithms including the Count-Min sketch in OCaml for the open-source Owl scientific computing library
 -   See related [blog post](/ocaml/owl/count-min-sketch/sublinear-algorithms/countmin-sketch/)
-
-**Undergraduate Teaching Fellow**, Sept 2018–May 2019  
-*Harvard University, Cambridge, MA*  
--   Courses taught: Applied Mathematics 120 (Applied Linear Algebra and Big Data) in Spring 2019, Mathematics E-23a (Linear Algebra and Real Analysis I) in Fall 2018
--   Held office hours, graded problem sets, and provided one-on-one tutoring and teaching for Harvard College undergraduates and Harvard Extension School distance-learning students
--   Awarded Certificate of Distinction in Teaching for Spring 2019 for receiving student evaluation rating above 4.5/5
 
 **Harvard College PRISE Fellowship**, June–August 2018    
 *Department of Earth and Planetary Sciences, Harvard University, Cambridge, MA*  
