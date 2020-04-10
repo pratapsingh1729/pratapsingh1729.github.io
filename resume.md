@@ -75,7 +75,7 @@ Music Scholarships
 
 ## Technical Skills
 
-OCaml, Haskell, Python, R, C/C++, Datalog/Prolog, LaTeX, MATLAB, Java,
+OCaml, Coq, Python, R, C/C++, Haskell, Datalog/Prolog, LaTeX, MATLAB, Java,
 JavaScript, Docker
 
 ## Interests
