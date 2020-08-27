@@ -8,7 +8,7 @@ categories: ocaml owl count-min-sketch sublinear-algorithms
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
-This post describes my project implementing the _count-min sketch_ in OCaml as part of the [Owl library](https://ocaml.xyz) for scientific computing.  This work was conducted under the supervision of [Professor KC Sivaramakrishnan](kcsrk.info), with guidance from [Professor Yadu Vasudev](https://yaduvasudev.github.io/), at the Indian Institute of Technology Madras during summer 2019.  
+This post describes my project implementing the _count-min sketch_ in OCaml as part of the [Owl library](https://ocaml.xyz) for scientific computing.  This work was conducted under the supervision of [Professor KC Sivaramakrishnan](https://kcsrk.info), with guidance from [Professor Yadu Vasudev](https://yaduvasudev.github.io/), at the Indian Institute of Technology Madras during summer 2019.  
 
 ## The count-min sketch
 The [count-min sketch](http://dimacs.rutgers.edu/~graham/pubs/papers/cm-full.pdf) is a probabilistic data structure that provides an approximate frequency table over some stream of data.  At the cost of returning possibly inaccurate results, the sketch requires memory usage and query times that are independent of the contained data.  Variants of this sketch have been proposed for a variety of [networking](https://dl.acm.org/citation.cfm?id=1863207) [applications](https://ieeexplore.ieee.org/abstract/document/6006023) and in [MapReduce/Hadoop implementations](https://www.hindawi.com/journals/mpe/2013/516298/), and existing implementations include Twitter's [`algebird` library](https://github.com/twitter/algebird).  The data structure supports the following two operations:

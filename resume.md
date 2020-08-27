@@ -10,7 +10,7 @@ classes: wide
 **Harvard University**, Class of 2021  
 A.B. in Computer Science.  Secondary Field in Mathematical Sciences. GPA: 3.98  
 *Relevant coursework:* Data Structures and Algorithms; Programming Languages; Theoretical Computer Science; Abstraction and Design in Computation; Introduction to Probability; Discrete Mathematics; Linear Algebra and Real Analysis; Applied Linear Algebra and Big Data  
-*Awards:* John Harvard Scholarship for 2019-2020, Harvard College Scholarship for 2018-2019
+*Awards:* John Harvard Scholarship (top 5% of class) for 2019-2020, Harvard College Scholarship (top 10% of class) for 2018-2019
 
 **The Perse School**, *Cambridge, UK*, Class of 2017   
 A-levels/Pre-U: Mathematics, Further Mathematics, Physics, Chemistry, Economics  
@@ -19,9 +19,26 @@ Music Scholarships
 
 ## Projects & Experience
 
+**Investment Associate Intern**, July-August 2020 
+*Bridgewater Associates, Westport, CT* 
+- Studied macroeconomic theory, asset class fundamentals, and portfolio theory 
+- Conducted independent project assessing the macroeconomic outlook of a particular economy
+during and after the Covid-19 pandemic 
+
+**Research Project on Verified and Secure Compilation**, Feb 2020-present 
+*School of Engineering and Applied Sciences, Harvard University, Cambridge, MA* 
+- Contributed to the Coq development of a verified compiler from IMP to WebAssembly 
+- Designed the semantics of the source language and proved type soundness 
+- Implemented memory models for the source and target language 
+
+**Research Project on Dynamic Reflection**, Jan 2020-present 
+*School of Engineering and Applied Sciences, Harvard University, Cambridge, MA* 
+- Designed and prototyped several verified reflective systems in Coq including memory instrumentation and a small JIT compiler, and proved soundness of reflection 
+
 **Undergraduate Teaching Fellow**, Sept 2018–May 2020    
 *Harvard University, Cambridge, MA*  
 -   Courses taught: Computer Science 152 (Programming Languages) in Spring 2020, Computer Science 121 (Introduction to Theoretical Computer Science) in Fall 2019,  Applied Mathematics 120 (Applied Linear Algebra and Big Data) in Spring 2019, Mathematics E-23a (Linear Algebra and Real Analysis I) in Fall 2018
+-   Taught semester-long Coq section following volume 1 of Pierce’s [Software Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html) (Spring 2020)
 -   Held office hours, graded problem sets, and provided one-on-one tutoring and teaching for Harvard College undergraduates and Harvard Extension School distance-learning students
 -   Awarded Certificate of Distinction in Teaching for Spring 2019 for receiving student evaluation rating above 4.5/5
 
@@ -75,11 +92,10 @@ Music Scholarships
 
 ## Technical Skills
 
-OCaml, Coq, Python, R, C/C++, Haskell, Datalog/Prolog, LaTeX, MATLAB, Java,
-JavaScript, Docker
+Coq, OCaml, WebAssembly, C/C++, Python, Haskell, R, MATLAB, Prolog, LaTeX, Java, Docker
 
 ## Interests
 -   *Radio* -- Director of The Jazz Spectrum and Webmaster for [WHRB](https://whrb.org)
--   *Flying* -- hold a European EASA Private Pilots License, currently have 92 flying hours
+-   *Flying* -- hold a European EASA Private Pilots License, currently have 103 flying hours
 -   *Clarinet* -- ABRSM Grade 8 with Distinction, member of Harvard Band and Wind Ensemble
 -   *Piano* -- ABRSM Grade 7
