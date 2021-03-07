@@ -19,19 +19,19 @@ Music Scholarships
 
 ## Projects & Experience
 
-**Investment Associate Intern**, July-August 2020 
+**Investment Associate Intern**, July-August 2020       
 *Bridgewater Associates, Westport, CT* 
 - Studied macroeconomic theory, asset class fundamentals, and portfolio theory 
 - Conducted independent project assessing the macroeconomic outlook of a particular economy
 during and after the Covid-19 pandemic 
 
-**Research Project on Verified and Secure Compilation**, Feb 2020-present 
+**Research Project on Verified and Secure Compilation**, Feb 2020-present      
 *School of Engineering and Applied Sciences, Harvard University, Cambridge, MA* 
 - Contributed to the Coq development of a verified compiler from IMP to WebAssembly 
 - Designed the semantics of the source language and proved type soundness 
 - Implemented memory models for the source and target language 
 
-**Research Project on Dynamic Reflection**, Jan 2020-present 
+**Research Project on Dynamic Reflection**, Jan 2020-present      
 *School of Engineering and Applied Sciences, Harvard University, Cambridge, MA* 
 - Designed and prototyped several verified reflective systems in Coq including memory instrumentation and a small JIT compiler, and proved soundness of reflection 
 
