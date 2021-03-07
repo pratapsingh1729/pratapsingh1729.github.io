@@ -2,5 +2,5 @@ M Sacchi, **P Singh**, DM Chisnall, DJ Ward, AP Jardine, W Allison, J Ellis, and
 
 H Hedgeland, M Sacchi, **P Singh**, AJ McIntosh, AP Jardine, G Alexandrowicz, DJ Ward, SJ Jenkins, W Allison, and J Ellis, "Mass Transport in Surface Diffusion of van der Waals Bonded Systems: Boosted by Rotations?", *J. Phys. Chem. Lett.*, 2016, 7 (**23**) 4819--4824. [View paper](http://dx.doi.org/10.1021/acs.jpclett.6b02024)  
 
-**P Singh** and H Hedgeland, "Special relativity in the school laboratory: a simple apparatus for cosmic-ray muon detection", *Physics Education*, 2015, **50**, 317-323. [View paper](http://dx.doi.org/10.1088/0031-9120/50/3/317)  
+**P Singh** and H Hedgeland, "Special relativity in the school laboratory: a simple apparatus for cosmic-ray muon detection", *Physics Education*, 2015, **50**, 317-323. Selected for *Physics Education* [Highlights of 2015](https://iopscience.iop.org/journal/0031-9120/page/Highlights%20of%202015). [View paper](http://dx.doi.org/10.1088/0031-9120/50/3/317)  
  
