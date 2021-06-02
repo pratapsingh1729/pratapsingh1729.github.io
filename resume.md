@@ -8,7 +8,7 @@ classes: wide
 ## Education
 
 **Harvard University**, Expected Graduation: December 2021      
-A.B. in Computer Science.  Secondary Field in Mathematical Sciences. GPA: 3.98      
+A.B. in Computer Science.  Secondary Field in Mathematical Sciences. GPA: 3.99      
 *Relevant coursework:* Compilers; Programming Languages; Advanced Topics in Programming Languages; Formal Reasoning about Programs; Operating Systems; Systems Programming and Machine Organization; Data Structures and Algorithms; Coding Theory; Theoretical Computer Science; Introduction to Probability; Discrete Mathematics    
 *Awards:* John Harvard Scholarship (top 5% of class) for 2019-2020, Harvard College Scholarship (top 10% of class) for 2018-2019
 
