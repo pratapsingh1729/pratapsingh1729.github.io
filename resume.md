@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Resume"
-date:   2019-08-24 00:00:00 -0500
+date:   2021-08-21 00:00:00 -0500
 classes: wide
 ---
 
@@ -9,15 +9,32 @@ classes: wide
 
 **Harvard University**, Expected Graduation: December 2021      
 A.B. in Computer Science.  Secondary Field in Mathematical Sciences. GPA: 3.99      
-*Relevant coursework:* Compilers; Programming Languages; Advanced Topics in Programming Languages; Formal Reasoning about Programs; Operating Systems; Systems Programming and Machine Organization; Data Structures and Algorithms; Coding Theory; Theoretical Computer Science; Introduction to Probability; Discrete Mathematics    
-*Awards:* John Harvard Scholarship (top 5% of class) for 2019-2020, Harvard College Scholarship (top 10% of class) for 2018-2019
+- *Relevant coursework:* Compilers; Programming Languages; Advanced Topics in Programming Languages; Formal Reasoning about Programs; Operating Systems; Systems Programming and Machine Organization; Data Structures and Algorithms; Theory of Error-correcting Codes; Theoretical Computer Science; Intro. to Probability; Discrete Mathematics  
+- *Awards:* John Harvard Scholar for 2019-2021, Harvard College Scholar for 2018-2019
+
 
 **The Perse School**, *Cambridge, UK*, Class of 2017   
-A-levels/Pre-U: Mathematics, Further Mathematics, Physics, Chemistry, Economics  
-*Awards:* Arkwright Engineering Scholarship, Sixth Form Academic and
-Music Scholarships
+- *A-levels/Pre-U:* Mathematics, Further Mathematics, Physics, Chemistry, Economics  
+- *Awards:* Arkwright Engineering Scholarship, Sixth Form Academic and Music Scholarships
 
 ## Projects & Experience
+
+**Research Project on Adapting Verified Compilation for Target-Language Errors**, Nov 2020-present    
+*School of Engineering and Applied Sciences, Harvard University, Cambridge, MA* 
+- Studied adaptations to verified compilers that account for target-language errors not present in the source
+- Developed systematization of design space of errors and adaptations
+
+**Investment Associate Intern**, June-August 2021    
+*Bridgewater Associates, Westport, CT* 
+- Conducted group project understanding drivers of equity-market performance
+- Developed inflation forecasts for a specific economy over 2021-2030
+
+**Undergraduate Teaching Fellow**, Sept 2018–May 2020, Jan-May 2021     
+*Harvard University, Cambridge, MA*  
+-   Courses taught: Computer Science 152 (Programming Languages) in Spring 2020 and Spring 2021, Computer Science 121 (Introduction to Theoretical Computer Science) in Fall 2019, Applied Mathematics 120 (Applied Linear Algebra and Big Data) in Spring 2019, Mathematics E-23a (Linear Algebra and Real Analysis I) in Fall 2018
+-   Taught semester-long Coq section following volume 1 of Pierce’s [Software Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html) (Spring 2020, Spring 2021)
+-   Held office hours, graded problem sets, and provided one-on-one tutoring and teaching for Harvard College undergraduates and Harvard Extension School distance-learning students
+-   Awarded Certificate of Distinction in Teaching for Spring 2019 for receiving student evaluation rating above 4.5/5
 
 **Investment Associate Intern**, July-August 2020    
 *Bridgewater Associates, Westport, CT* 
@@ -25,22 +42,15 @@ Music Scholarships
 - Conducted independent project assessing the macroeconomic outlook of a particular economy
 during and after the Covid-19 pandemic 
 
-**Research Project on Verified and Secure Compilation**, Feb 2020-present    
+**Research Project on Verified and Secure Compilation**, Feb-Nov 2020    
 *School of Engineering and Applied Sciences, Harvard University, Cambridge, MA* 
 - Contributed to the Coq development of a verified compiler from IMP to WebAssembly 
 - Designed the semantics of the source language and proved type soundness 
 - Implemented memory models for the source and target language 
 
-**Research Project on Dynamic Reflection**, Jan 2020-present    
+**Research Project on Dynamic Reflection**, Jan-Jul 2020    
 *School of Engineering and Applied Sciences, Harvard University, Cambridge, MA* 
 - Designed and prototyped several verified reflective systems in Coq including memory instrumentation and a small JIT compiler, and proved soundness of reflection 
-
-**Undergraduate Teaching Fellow**, Sept 2018–May 2020, Jan-May 2021
-*Harvard University, Cambridge, MA*  
--   Courses taught: Computer Science 152 (Programming Languages) in Spring 2020 and Spring 2021, Computer Science 121 (Introduction to Theoretical Computer Science) in Fall 2019,  Applied Mathematics 120 (Applied Linear Algebra and Big Data) in Spring 2019, Mathematics E-23a (Linear Algebra and Real Analysis I) in Fall 2018
--   Taught semester-long Coq section following volume 1 of Pierce’s [Software Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html) (Spring 2020, Spring 2021)
--   Held office hours, graded problem sets, and provided one-on-one tutoring and teaching for Harvard College undergraduates and Harvard Extension School distance-learning students
--   Awarded Certificate of Distinction in Teaching for Spring 2019 for receiving student evaluation rating above 4.5/5
 
 **Summer Project on Sublinear Algorithms in OCaml**, June-August 2019    
 *Department of Computer Science and Engineering, IIT Madras, Chennai, India*  
@@ -54,7 +64,7 @@ during and after the Covid-19 pandemic
 
 **Computer Science 50: Final Project**, Nov–Dec 2017    
 *Harvard University, Cambridge, MA*  
--   Designed and implemented a multi-language, multi-user, web-based chat application which automatically translates messages into the appropriate language for each user
+-   Designed and implemented a multi-language, multi-user, web-based chat application that automatically translates messages into the appropriate language for each user
 -   Tools used: Javascript, Node.js, Python, Flask, Google Translate API
 
 **International Summer Science School in Heidelberg**, July-August 2016 
