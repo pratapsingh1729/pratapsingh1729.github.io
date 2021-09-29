@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Resume"
-date:   2021-08-21 00:00:00 -0500
+date:   2021-09-29 00:00:00 -0500
 classes: wide
 ---
 
@@ -24,29 +24,29 @@ A.B. in Computer Science.  Secondary Field in Mathematical Sciences. GPA: 3.99
 - Studied adaptations to verified compilers that account for target-language errors not present in the source
 - Developed systematization of design space of errors and adaptations
 
-**Investment Associate Intern**, June-August 2021    
-*Bridgewater Associates, Westport, CT* 
-- Conducted group project understanding drivers of equity-market performance
-- Developed inflation forecasts for a specific economy over 2021-2030
-
-**Undergraduate Teaching Fellow**, Sept 2018–May 2020, Jan-May 2021     
+**Undergraduate Teaching Fellow**, Sept 2018–May 2020, Jan-Dec 2021     
 *Harvard University, Cambridge, MA*  
--   Courses taught: Computer Science 152 (Programming Languages) in Spring 2020 and Spring 2021, Computer Science 121 (Introduction to Theoretical Computer Science) in Fall 2019, Applied Mathematics 120 (Applied Linear Algebra and Big Data) in Spring 2019, Mathematics E-23a (Linear Algebra and Real Analysis I) in Fall 2018
+-   Courses taught: Computer Science 153 (Compilers) in Fall 2021, Computer Science 152 (Programming Languages) in Spring 2020 and Spring 2021, Computer Science 121 (Introduction to Theoretical Computer Science) in Fall 2019, Applied Mathematics 120 (Applied Linear Algebra and Big Data) in Spring 2019, Mathematics E-23a (Linear Algebra and Real Analysis I) in Fall 2018
 -   Taught semester-long Coq section following volume 1 of Pierce’s [Software Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html) (Spring 2020, Spring 2021)
 -   Held office hours, graded problem sets, and provided one-on-one tutoring and teaching for Harvard College undergraduates and Harvard Extension School distance-learning students
 -   Awarded Certificate of Distinction in Teaching for Spring 2019 and Spring 2021 for receiving student evaluation rating above 4.5/5
 
-**Investment Associate Intern**, July-August 2020    
+**Investment Associate Intern**, June-August 2021    
 *Bridgewater Associates, Westport, CT* 
-- Studied macroeconomic theory, asset class fundamentals, and portfolio theory 
-- Conducted independent project assessing the macroeconomic outlook of a particular economy
-during and after the Covid-19 pandemic 
+- Conducted group project understanding drivers of equity-market performance
+- Developed inflation forecasts for a specific economy over 2021-2030
 
 **Research Project on Verified and Secure Compilation**, Feb-Nov 2020    
 *School of Engineering and Applied Sciences, Harvard University, Cambridge, MA* 
 - Contributed to the Coq development of a verified compiler from IMP to WebAssembly 
 - Designed the semantics of the source language and proved type soundness 
 - Implemented memory models for the source and target language 
+
+**Investment Associate Intern**, July-August 2020    
+*Bridgewater Associates, Westport, CT* 
+- Studied macroeconomic theory, asset class fundamentals, and portfolio theory 
+- Conducted independent project assessing the macroeconomic outlook of a particular economy
+during and after the Covid-19 pandemic 
 
 **Research Project on Dynamic Reflection**, Jan-Jul 2020    
 *School of Engineering and Applied Sciences, Harvard University, Cambridge, MA* 
@@ -102,10 +102,10 @@ during and after the Covid-19 pandemic
 
 ## Technical Skills
 
-Coq, OCaml, WebAssembly, C/C++, Python, Haskell, R, MATLAB, Prolog, LaTeX, Java, Docker
+Coq, OCaml, C/C++, WebAssembly, Python, Haskell, R, MATLAB, Prolog, LaTeX, Java, Docker
 
 ## Interests
 -   *Radio* -- DJ on [WHRB](https://whrb.org), Director of the Jazz Spectrum and Web Manager in 2020
 -   *Flying* -- hold a European EASA Private Pilots License, currently have 103 flying hours
--   *Clarinet* -- ABRSM Grade 8 with Distinction, member of Harvard Band and Wind Ensemble
+-   *Clarinet* -- ABRSM Grade 8 with Distinction, former member of Harvard Band and Wind Ensemble
 -   *Piano* -- ABRSM Grade 7
