@@ -1,13 +1,13 @@
 ---
 layout: single
 title:  "Resume"
-date:   2021-09-29 00:00:00 -0500
+date:   2022-01-31 00:00:00 -0500
 classes: wide
 ---
 
 ## Education
 
-**Harvard University**, Expected Graduation: December 2021      
+**Harvard University**, Sep 2017-Dec 2021    
 A.B. in Computer Science.  Secondary Field in Mathematical Sciences. GPA: 3.99      
 - *Relevant coursework:* Compilers; Programming Languages; Advanced Topics in Programming Languages; Formal Reasoning about Programs; Operating Systems; Systems Programming and Machine Organization; Data Structures and Algorithms; Theory of Error-correcting Codes; Theoretical Computer Science; Intro. to Probability; Discrete Mathematics  
 - *Awards:* John Harvard Scholar for 2019-2021, Harvard College Scholar for 2018-2019
@@ -19,7 +19,12 @@ A.B. in Computer Science.  Secondary Field in Mathematical Sciences. GPA: 3.99
 
 ## Projects & Experience
 
-**Research Project on Adapting Verified Compilation for Target-Language Errors**, Nov 2020-present    
+**Research Assistant at MIT PLV**, Jan 2022-present
+*Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology, Cambridge, MA*
+- Implemented support for runtime metrics in the Bedrock2 verified compiler
+- Worked on a model-checker for the RISC-V weak memory model 
+
+**Research Project on Adapting Verified Compilation for Target-Language Errors**, Nov 2020-Dec 2021    
 *School of Engineering and Applied Sciences, Harvard University, Cambridge, MA* 
 - Studied adaptations to verified compilers that account for target-language errors not present in the source
 - Developed systematization of design space of errors and adaptations
