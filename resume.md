@@ -8,10 +8,9 @@ classes: wide
 ## Education
 
 **Harvard University**, Sep 2017-Dec 2021    
-A.B. in Computer Science.  Secondary Field in Mathematical Sciences. GPA: 3.99      
+A.B. _summa cum laude_ in Computer Science.  Secondary Field in Mathematical Sciences. GPA: 3.99      
 - *Relevant coursework:* Compilers; Programming Languages; Advanced Topics in Programming Languages; Formal Reasoning about Programs; Operating Systems; Systems Programming and Machine Organization; Data Structures and Algorithms; Theory of Error-correcting Codes; Theoretical Computer Science; Intro. to Probability; Discrete Mathematics  
 - *Awards:* John Harvard Scholar for 2019-2021, Harvard College Scholar for 2018-2019
-
 
 **The Perse School**, *Cambridge, UK*, Class of 2017   
 - *A-levels/Pre-U:* Mathematics, Further Mathematics, Physics, Chemistry, Economics  
