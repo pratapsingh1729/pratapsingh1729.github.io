@@ -102,7 +102,9 @@ during and after the Covid-19 pandemic
 
 ## Professional activities
 
-**ICFP 2019**, *Berlin*, *Germany* - Student Volunteer
+**POPL 2022**, *Philadelphia*, *PA*, *USA* - Student Volunteer       
+
+**ICFP 2019**, *Berlin*, *Germany* - Student Volunteer       
 
 ## Technical Skills
 
