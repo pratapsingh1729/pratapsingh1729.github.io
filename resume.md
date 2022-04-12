@@ -108,7 +108,7 @@ during and after the Covid-19 pandemic
 
 ## Technical Skills
 
-Coq, OCaml, C/C++, WebAssembly, Python, Haskell, R, MATLAB, Prolog, LaTeX, Java, Docker
+Coq, OCaml, Haskell, C/C++, WebAssembly, Python, R, MATLAB, Prolog, LaTeX, Java, Docker
 
 ## Interests
 -   *Radio* -- DJ on [WHRB](https://whrb.org), Director of the Jazz Spectrum and Web Manager in 2020
