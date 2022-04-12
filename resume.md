@@ -33,7 +33,7 @@ A.B. _summa cum laude_ in Computer Science.  Secondary Field in Mathematical Sci
 -   Courses taught: Computer Science 153 (Compilers) in Fall 2021, Computer Science 152 (Programming Languages) in Spring 2020 and Spring 2021, Computer Science 121 (Introduction to Theoretical Computer Science) in Fall 2019, Applied Mathematics 120 (Applied Linear Algebra and Big Data) in Spring 2019, Mathematics E-23a (Linear Algebra and Real Analysis I) in Fall 2018
 -   Taught semester-long Coq section following volume 1 of Pierce’s [Software Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html) (Spring 2020, Spring 2021)
 -   Held office hours, graded problem sets, and provided one-on-one tutoring and teaching for Harvard College undergraduates and Harvard Extension School distance-learning students
--   Awarded Certificate of Distinction in Teaching for Spring 2019 and Spring 2021 for receiving student evaluation rating above 4.5/5
+-   Awarded Certificate of Distinction in Teaching for Spring 2019, Spring 2021, Fall 2021 for receiving student evaluation rating above 4.5/5
 
 **Investment Associate Intern**, June-August 2021    
 *Bridgewater Associates, Westport, CT* 
