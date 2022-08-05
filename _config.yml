@@ -154,7 +154,7 @@ footer:
 analytics:
   provider               : "google-gtag"
   google:
-    tracking_id          : UA-146823104-1
+    tracking_id          : G-X7JD7YBMBM
 
 
 # Reading Files
