@@ -7,10 +7,13 @@ classes: wide
 
 ## Education
 
+**Carnegie Mellon University**, Aug 2022-present    
+PhD student in Computer Science.
+
 **Harvard University**, Sep 2017-Dec 2021    
 A.B. _summa cum laude_ in Computer Science.  Secondary Field in Mathematical Sciences. GPA: 3.99      
 - *Relevant coursework:* Compilers; Programming Languages; Advanced Topics in Programming Languages; Formal Reasoning about Programs; Operating Systems; Systems Programming and Machine Organization; Data Structures and Algorithms; Theory of Error-correcting Codes; Theoretical Computer Science; Intro. to Probability; Discrete Mathematics  
-- *Awards:* John Harvard Scholar for 2019-2021, Harvard College Scholar for 2018-2019
+- *Awards:* Phi Beta Kappa (Senior 48), John Harvard Scholar for 2019-2021, Harvard College Scholar for 2018-2019
 
 **The Perse School**, *Cambridge, UK*, Class of 2017   
 - *A-levels/Pre-U:* Mathematics, Further Mathematics, Physics, Chemistry, Economics  
@@ -18,7 +21,7 @@ A.B. _summa cum laude_ in Computer Science.  Secondary Field in Mathematical Sci
 
 ## Projects & Experience
 
-**Research Assistant at MIT PLV**, Jan 2022-present
+**Research Assistant at MIT PLV**, Jan-Aug 2022
 *Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology, Cambridge, MA*
 - Implemented support for runtime metrics in the Bedrock2 verified compiler
 - Worked on a model-checker for the RISC-V weak memory model 
@@ -102,9 +105,11 @@ during and after the Covid-19 pandemic
 
 ## Professional activities
 
-**POPL 2022**, *Philadelphia*, *PA*, *USA* - Student Volunteer       
+**Oregon Programming Languages Summer School 2022**, *Eugene*, *OR*, *USA*---Attended on an OPLSS Scholarship.
 
-**ICFP 2019**, *Berlin*, *Germany* - Student Volunteer       
+**POPL 2022**, *Philadelphia*, *PA*, *USA*---Student Volunteer       
+
+**ICFP 2019**, *Berlin*, *Germany*---Student Volunteer       
 
 ## Technical Skills
 

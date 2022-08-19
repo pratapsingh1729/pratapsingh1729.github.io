@@ -30,8 +30,8 @@ search                   : true
 author:
   name             : "Pratap Singh"
   avatar           : /assets/images/bio-photo.jpg
-  bio              : "RA at MIT PLV, incoming PhD student at CMU"
-  location         : "Cambridge, MA"
+  bio              : "CS PhD student at CMU"
+  location         : "Pittsburgh, PA"
 #  email            : "pratapsingh1729@gmail.com"
   links:
     - label: "Website"
