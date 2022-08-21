@@ -1,7 +1,7 @@
 _site
 .sass-cache
 .jekyll-metadata
-*.code_workspace
+*.code-workspace
 .DS_Store
 .vscode/
 .devcontainer/
