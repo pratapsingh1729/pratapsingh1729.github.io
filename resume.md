@@ -21,7 +21,7 @@ A.B. _summa cum laude_ in Computer Science.  Secondary Field in Mathematical Sci
 
 ## Projects & Experience
 
-**Research Assistant at MIT PLV**, Jan-Aug 2022
+**Research Assistant at MIT PLV**, Jan-Aug 2022    
 *Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology, Cambridge, MA*
 - Implemented support for runtime metrics in the Bedrock2 verified compiler
 - Worked on a model-checker for the RISC-V weak memory model 
