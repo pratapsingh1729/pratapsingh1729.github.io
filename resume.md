@@ -19,6 +19,10 @@ A.B. _summa cum laude_ in Computer Science.  Secondary Field in Mathematical Sci
 - *A-levels/Pre-U:* Mathematics, Further Mathematics, Physics, Chemistry, Economics  
 - *Awards:* Arkwright Engineering Scholarship, Sixth Form Academic and Music Scholarships
 
+## Publications
+
+{% include_relative publications_src.md %}
+
 ## Projects & Experience
 
 **Research Assistant at MIT PLV**, Jan-Aug 2022    
@@ -98,10 +102,6 @@ during and after the Covid-19 pandemic
 **Stanford Pre-Collegiate Studies: Artificial Intelligence**, June-July 2014  
 *Stanford University, Stanford, CA*  
 -   Designed and implemented an artificial neural network for optical character recognition; network achieved 98% (human-level) accuracy on MNIST testing dataset
-
-## Publications
-
-{% include_relative publications_src.md %}
 
 ## Professional activities
 
