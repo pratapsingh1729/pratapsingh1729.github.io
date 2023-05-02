@@ -4,6 +4,11 @@
 Joshua Gancher, Sydney Gibson, **Pratap Singh**, Samvid Dharanikota, and Bryan Parno, "Owl: Compositional Verification of Security Protocols via an Information-Flow Type System", to appear at IEEE S&P 2023. [Technical report](https://eprint.iacr.org/2023/473.pdf)
 
 
+### Preprints
+
+Thomas Bourgeat, Ian Clester, Andres Erbsen, Samuel Gruetter, **Pratap Singh**, Andrew Wright, and Adam Chlipala, "Flexible Instruction-Set Semantics via Type Classes". [Preprint](https://arxiv.org/abs/2104.00762)
+
+
 ### Journal papers
 
 M Sacchi, **P Singh**, DM Chisnall, DJ Ward, AP Jardine, W Allison, J Ellis, and H Hedgeland, "The dynamics of benzene on Cu(111): a combined helium spin echo and dispersion-corrected DFT study into the diffusion of physisorbed aromatics on metal surfaces", *Faraday Discuss.*, 2017, **204**, 471-485. [View paper](http://dx.doi.org/10.1039/C7FD00095B)
