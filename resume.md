@@ -99,10 +99,6 @@ during and after the Covid-19 pandemic
 -   Designed and built cosmic-ray telescope using Geiger-Müller tubes and a Raspberry Pi
 -   Presented project at UK National Science + Engineering Competition 2015 -- awarded Institute of Physics prize
 
-**Stanford Pre-Collegiate Studies: Artificial Intelligence**, June-July 2014  
-*Stanford University, Stanford, CA*  
--   Designed and implemented an artificial neural network for optical character recognition; network achieved 98% (human-level) accuracy on MNIST testing dataset
-
 ## Professional activities
 
 **Oregon Programming Languages Summer School 2022**, *Eugene*, *OR*, *USA*---Attended on an OPLSS Scholarship.
