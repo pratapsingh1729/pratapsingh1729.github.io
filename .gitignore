@@ -5,3 +5,4 @@ _site
 .DS_Store
 .vscode/
 .devcontainer/
+dockerrun.sh

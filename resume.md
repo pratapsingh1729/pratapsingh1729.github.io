@@ -8,22 +8,28 @@ classes: wide
 ## Education
 
 **Carnegie Mellon University**, Aug 2022-present    
-PhD student in Computer Science.
+PhD student in Computer Science.    
+*Awards:* NSF Graduate Research Fellowship, 2023    
 
 **Harvard University**, Sep 2017-Dec 2021    
 A.B. _summa cum laude_ in Computer Science.  Secondary Field in Mathematical Sciences. GPA: 3.99      
-- *Relevant coursework:* Compilers; Programming Languages; Advanced Topics in Programming Languages; Formal Reasoning about Programs; Operating Systems; Systems Programming and Machine Organization; Data Structures and Algorithms; Theory of Error-correcting Codes; Theoretical Computer Science; Intro. to Probability; Discrete Mathematics  
-- *Awards:* Phi Beta Kappa (Senior 48), John Harvard Scholar for 2019-2021, Harvard College Scholar for 2018-2019
+*Relevant coursework:* Compilers; Programming Languages; Advanced Topics in Programming Languages; Formal Reasoning about Programs; Operating Systems; Systems Programming and Machine Organization; Data Structures and Algorithms; Theory of Error-correcting Codes; Theoretical Computer Science; Intro. to Probability; Discrete Mathematics      
+*Awards:* Phi Beta Kappa (Senior 48), John Harvard Scholar for 2019-2021, Harvard College Scholar for 2018-2019    
 
 **The Perse School**, *Cambridge, UK*, Class of 2017   
-- *A-levels/Pre-U:* Mathematics, Further Mathematics, Physics, Chemistry, Economics  
-- *Awards:* Arkwright Engineering Scholarship, Sixth Form Academic and Music Scholarships
+*A-levels/Pre-U:* Mathematics, Further Mathematics, Physics, Chemistry, Economics    
+*Awards:* Arkwright Engineering Scholarship, Sixth Form Academic and Music Scholarships  
 
 ## Publications
 
 {% include_relative publications_src.md %}
 
 ## Projects & Experience
+
+**PhD Research on Verified Security Protocol Implementations**, Aug 2022--present\\
+*School of Computer Science, Carnegie Mellon University, Pittsburgh, PA*
+- Developing a proof-producing compiler for security protocols in the Owl language, generating safe, high-performance Rust implementations verified for functional correctness
+- [Project repository on GitHub](https://github.com/secure-foundations/owl)
 
 **Research Assistant at MIT PLV**, Jan-Aug 2022    
 *Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology, Cambridge, MA*
@@ -100,6 +106,8 @@ during and after the Covid-19 pandemic
 -   Presented project at UK National Science + Engineering Competition 2015 -- awarded Institute of Physics prize
 
 ## Professional activities
+
+**POPL 2023**, *Boston*, *MA*, *USA*---Student Volunteer
 
 **Oregon Programming Languages Summer School 2022**, *Eugene*, *OR*, *USA*---Attended on an OPLSS Scholarship.
 

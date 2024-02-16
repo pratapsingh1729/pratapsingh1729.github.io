@@ -1,13 +1,9 @@
 
 ### Conference papers
 
-Joshua Gancher, Sydney Gibson, **Pratap Singh**, Samvid Dharanikota, and Bryan Parno, "Owl: Compositional Verification of Security Protocols via an Information-Flow Type System", to appear at IEEE S&P 2023. [Technical report](https://eprint.iacr.org/2023/473.pdf)
+Thomas Bourgeat, Ian Clester, Andres Erbsen, Samuel Gruetter, **Pratap Singh**, Andy Wright, and Adam Chlipala, "Flexible Instruction-Set Semantics via Abstract Monads (Experience Report)". ICFP 2023. [View paper](https://doi.org/10.1145/3607833)
 
-
-### Preprints
-
-Thomas Bourgeat, Ian Clester, Andres Erbsen, Samuel Gruetter, **Pratap Singh**, Andrew Wright, and Adam Chlipala, "Flexible Instruction-Set Semantics via Type Classes". [Preprint](https://arxiv.org/abs/2104.00762)
-
+Joshua Gancher, Sydney Gibson, **Pratap Singh**, Samvid Dharanikota, and Bryan Parno, "Owl: Compositional Verification of Security Protocols via an Information-Flow Type System". IEEE S&P 2023. [View paper](https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00166)
 
 ### Journal papers
 
