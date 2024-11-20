@@ -79,31 +79,10 @@ during and after the Covid-19 pandemic
 -   Conducted a research project on the suppression of extreme cold events in northern latitude continental interiors under a warmer climate
 -   Used Python to run three-dimensional climate simulations and conduct back-trajectory analysis under various warming conditions
 
-<!-- **Computer Science 50: Final Project**, Nov–Dec 2017    
-*Harvard University, Cambridge, MA*  
--   Designed and implemented a multi-language, multi-user, web-based chat application that automatically translates messages into the appropriate language for each user
--   Tools used: Javascript, Node.js, Python, Flask, Google Translate API -->
-
-<!-- **International Summer Science School in Heidelberg**, July-August 2016 
-*Center for Quantum Dynamics, University of Heidelberg, Heidelberg, Germany*  
--   Constructed and characterized optical systems for ultra-cold atom trapping
--   Analyzed optical data using MATLAB and Python -->
-
 **Surface Science Project Research Assistant**, June–August 2015      
 *London Centre for Nanotechnology, London, UK*  
 -   Analyzed data sets from helium-3 spin-echo spectrometer using MATLAB, to characterize the diffusive motion of benzene molecules on copper surfaces
 -   Ran and analyzed molecular dynamics simulations of benzene molecules on copper surfaces to validate density functional theory models
-
-<!-- **International Summer School for Young Physicists**, July 2015  
-*Perimeter Institute for Theoretical Physics, Waterloo, Ontario, Canada*  
--   Attended seminars and lectures on aspects of modern physics
--   Carried out a mentor-led project on quantum information theory and computation -->
-
-<!-- **Research Project on Relativity in Cosmic-Ray Muons**, Sept 2013–March 2015  
-*The Perse School, Cambridge, UK*  
--   Conducted year-long research project to demonstrate relativistic time dilation by observing the mean lifetimes of cosmic-ray muons
--   Designed and built cosmic-ray telescope using Geiger-Müller tubes and a Raspberry Pi
--   Presented project at UK National Science + Engineering Competition 2015 -- awarded Institute of Physics prize -->
 
 ## Professional activities
 
@@ -118,11 +97,3 @@ during and after the Covid-19 pandemic
 ## Technical Skills
 
 **Languages:** [Verus](https://verus.rs), Dafny, Rust, Haskell, SMT, OCaml, Haskell, Coq, Lean, C/C++, WebAssembly, Python
-
-<!-- R, MATLAB, Prolog, LaTeX, Java, Docker -->
-
-<!-- ## Interests
--   *Radio* -- DJ on [WHRB](https://whrb.org), Director of the Jazz Spectrum and Web Manager in 2020
--   *Flying* -- hold a European EASA Private Pilots License, currently have 103 flying hours
--   *Clarinet* -- ABRSM Grade 8 with Distinction, former member of Harvard Band and Wind Ensemble
--   *Piano* -- ABRSM Grade 7 -->
