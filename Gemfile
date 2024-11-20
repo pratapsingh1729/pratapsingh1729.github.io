@@ -11,3 +11,4 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "nokogiri" #, ">= 1.10.4"
 end
+gem "webrick", "~> 1.9"
