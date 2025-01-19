@@ -3,7 +3,7 @@
 
 Thomas Bourgeat, Ian Clester, Andres Erbsen, Samuel Gruetter, **Pratap Singh**, Andy Wright, and Adam Chlipala, "Flexible Instruction-Set Semantics via Abstract Monads (Experience Report)". ICFP 2023. [View paper](https://doi.org/10.1145/3607833)
 
-Joshua Gancher, Sydney Gibson, **Pratap Singh**, Samvid Dharanikota, and Bryan Parno, "Owl: Compositional Verification of Security Protocols via an Information-Flow Type System". IEEE S&P 2023. [View paper](https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00166)
+Joshua Gancher, Sydney Gibson, **Pratap Singh**, Samvid Dharanikota, and Bryan Parno, "Owl: Compositional Verification of Security Protocols via an Information-Flow Type System". IEEE S&P 2023. [View paper](https://doi.org/10.1109/sp46215.2023.10179477)
 
 ### Journal papers
 
