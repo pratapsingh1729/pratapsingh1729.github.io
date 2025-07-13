@@ -1,6 +1,12 @@
 
 ### Conference papers
 
+**Pratap Singh**, Joshua Gancher, and Bryan Parno, "OwlC: Compiling Security Protocols to Verified, Secure, High-Performance Libraries". To appear at USENIX Security 2025. [View extended version](https://ia.cr/2025/1092)
+
+Yi Cai, **Pratap Singh**, Zhengyao Lin, Jay Bosamiya, Joshua Gancher, Milijana Surbatovich, and Bryan Parno, "Vest: Verified, Secure, High-Performance Parsing and Serialization for Rust". To appear at USENIX Security 2025. 
+
+Zhengyao Lin, Michael McLoughlin, **Pratap Singh**, Rory Brennan-Jones, Paul Hitchcox, Joshua Gancher, and Bryan Parno, "Towards Practical, End-to-End Formally Verified X.509 Certificate Validators with Verdict". To appear at USENIX Security 2025.
+
 Thomas Bourgeat, Ian Clester, Andres Erbsen, Samuel Gruetter, **Pratap Singh**, Andy Wright, and Adam Chlipala, "Flexible Instruction-Set Semantics via Abstract Monads (Experience Report)". ICFP 2023. [View paper](https://doi.org/10.1145/3607833)
 
 Joshua Gancher, Sydney Gibson, **Pratap Singh**, Samvid Dharanikota, and Bryan Parno, "Owl: Compositional Verification of Security Protocols via an Information-Flow Type System". IEEE S&P 2023. [View paper](https://doi.org/10.1109/sp46215.2023.10179477)

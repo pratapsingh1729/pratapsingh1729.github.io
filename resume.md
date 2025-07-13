@@ -26,6 +26,10 @@ A.B. _summa cum laude_ in Computer Science.  Secondary Field in Mathematical Sci
 
 ## Projects & Experience
 
+**Applied Scientist Intern**, May-Aug 2025\\
+*Amazon Web Services, Arlington, VA*
+- Verifying the core Rust implementation of the [Cedar authorization language](https://www.cedarpolicy.com/) using [Verus](https://github.com/verus-lang/verus)
+
 **PhD Research on Verified Security Protocol Implementations**, Aug 2022--present\\
 *School of Computer Science, Carnegie Mellon University, Pittsburgh, PA*
 - Developing a proof-producing compiler for security protocols in the Owl language, generating safe, high-performance Rust implementations verified for functional correctness and side-channel resistance
@@ -96,4 +100,4 @@ during and after the Covid-19 pandemic
 
 ## Technical Skills
 
-**Languages:** [Verus](https://verus.rs), Dafny, Rust, Haskell, SMT, OCaml, Haskell, Coq, Lean, C/C++, WebAssembly, Python
+**Languages:** [Verus](https://github.com/verus-lang/verus), Rust, Haskell, Lean, SMT, OCaml, Coq, C/C++, WebAssembly, Python
