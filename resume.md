@@ -28,7 +28,7 @@ A.B. _summa cum laude_ in Computer Science.  Secondary Field in Mathematical Sci
 
 **Applied Scientist Intern**, May-Aug 2025\\
 *Amazon Web Services, Arlington, VA*
-- Verifying the core Rust implementation of the [Cedar authorization language](https://www.cedarpolicy.com/) using [Verus](https://github.com/verus-lang/verus)
+- Verified the core Rust implementation of the [Cedar authorization language](https://www.cedarpolicy.com/) using [Verus](https://github.com/verus-lang/verus)
 
 **PhD Research on Verified Security Protocol Implementations**, Aug 2022--present\\
 *School of Computer Science, Carnegie Mellon University, Pittsburgh, PA*
