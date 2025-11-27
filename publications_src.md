@@ -1,14 +1,16 @@
 
 ### Conference papers
 
+Thomas Carotti, Andy Tockman, **Pratap Singh**, Andres Erbsen, Samuel Gruetter, and Adam Chlipala, "Foundational Verification of Running-Time Bounds for Interactive Programs". To appear at CPP 2026.
+
 **Pratap Singh**, Joshua Gancher, and Bryan Parno, "OwlC: Compiling Security Protocols to Verified, Secure, High-Performance Libraries". USENIX Security 2025. **Distinguished Artifact Award**.    
-[Extended version](https://ia.cr/2025/1092) | [Artifact](https://doi.org/10.5281/zenodo.15605318)
+[Conference paper](https://www.usenix.org/conference/usenixsecurity25/presentation/singh) | [Extended version](https://ia.cr/2025/1092) | [Artifact](https://doi.org/10.5281/zenodo.15605318)
 
 Yi Cai, **Pratap Singh**, Zhengyao Lin, Jay Bosamiya, Joshua Gancher, Milijana Surbatovich, and Bryan Parno, "Vest: Verified, Secure, High-Performance Parsing and Serialization for Rust". USENIX Security 2025.    
-[Artifact](https://doi.org/10.5281/zenodo.15611103)
+[Conference paper](https://www.usenix.org/conference/usenixsecurity25/presentation/cai-yi) | [Artifact](https://doi.org/10.5281/zenodo.15611103)
 
 Zhengyao Lin, Michael McLoughlin, **Pratap Singh**, Rory Brennan-Jones, Paul Hitchcox, Joshua Gancher, and Bryan Parno, "Towards Practical, End-to-End Formally Verified X.509 Certificate Validators with Verdict". USENIX Security 2025.  
-[Artifact](https://doi.org/10.5281/zenodo.15468400)
+[Conference paper](https://www.usenix.org/conference/usenixsecurity25/presentation/lin-zhengyao) | [Artifact](https://doi.org/10.5281/zenodo.15468400)
 
 Thomas Bourgeat, Ian Clester, Andres Erbsen, Samuel Gruetter, **Pratap Singh**, Andy Wright, and Adam Chlipala, "Flexible Instruction-Set Semantics via Abstract Monads (Experience Report)". ICFP 2023.    
 [Conference paper](https://doi.org/10.1145/3607833)
